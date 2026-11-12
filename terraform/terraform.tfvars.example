@@ -1,0 +1,4 @@
+# Copy this file to terraform.tfvars and fill in your values.
+# terraform.tfvars is ignored by Git.
+key_name = "ts-devops-key"
+my_ip    = "203.0.113.10/32"
