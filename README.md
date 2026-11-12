@@ -1,4 +1,4 @@
-# ts-devops-demo
+# DevOps_Project_1
 
 End-to-end DevOps project: a Spring Boot app built with Maven, packaged with Docker,
 stored in Amazon ECR and deployed to EC2 by a Jenkins pipeline. Terraform creates the
